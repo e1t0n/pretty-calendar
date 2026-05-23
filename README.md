@@ -10,3 +10,8 @@ To make iCloud iCal feeds work with the "Pretty Calendar" template, the code was
 - Data Path: Switched from data to ical.
 - Field Mapping: Mapped summary -> SUMMARY, start.dateTime -> DTSTART, etc.
 - All-Day Logic: Added logic to detect 8-digit date strings (Birthdays/Holidays).
+
+[res/pretty-calendar.png]
+![iCloud calendar sample][def]
+
+[def]: res/pretty-calendar.png "iCloud Calendar"
